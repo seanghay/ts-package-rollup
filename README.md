@@ -16,6 +16,7 @@ A template for building ESM & CommonJS library.
 - [x] Output files are minified
 - [x] Support for CommonJS & ESM
 - [x] JSON Module
+- [x] Unit tests with GitHub Actions 
 
 ## Test
 
