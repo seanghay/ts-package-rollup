@@ -34,3 +34,8 @@ pnpm release
 ```
 
 > Note: `NPM_TOKEN` should be added into your repo secret to be able to publish to npm
+
+
+## Using NPM
+
+This repo is using `pnpm` as a package manager, however if you need to use `npm` you can remove `pnpm-lock.yaml` and run `npm install`
