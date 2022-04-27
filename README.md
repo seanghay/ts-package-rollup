@@ -8,6 +8,7 @@ A template for building ESM & CommonJS library.
 
 ## Features
 
+- [x] Rollup
 - [x] TypeScript
 - [x] Generating `.d.ts`
 - [x] esbuild 
