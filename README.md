@@ -2,6 +2,8 @@
 
 A template for building ESM & CommonJS library.
 
+[![test](https://github.com/seanghay/ts-package-rollup/actions/workflows/ci.yml/badge.svg)](https://github.com/seanghay/ts-package-rollup/actions/workflows/ci.yml)
+
 ## Features
 
 - [x] TypeScript
@@ -39,3 +41,4 @@ pnpm release
 ## Using NPM
 
 This repo is using `pnpm` as a package manager, however if you need to use `npm` you can remove `pnpm-lock.yaml` and run `npm install`
+
