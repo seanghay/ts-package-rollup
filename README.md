@@ -14,7 +14,7 @@ A template for building ESM & CommonJS library.
 - [x] esbuild 
 - [x] Vitest
 - [x] Use GitHub Actions for publishing to npm
-- [x] Output files are minified
+- [x] Output files are minified with source maps
 - [x] Support for CommonJS & ESM
 - [x] JSON Module
 - [x] Unit tests with GitHub Actions 
