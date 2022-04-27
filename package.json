@@ -40,6 +40,7 @@
   "homepage": "https://github.com/seanghay/ts-package-rollup#readme",
   "packageManager": "pnpm@6.32.10",
   "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.0",
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^13.2.1",
     "bumpp": "^7.1.1",
