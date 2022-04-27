@@ -2,6 +2,8 @@
 
 A template for building ESM & CommonJS library.
 
+[![test](https://github.com/seanghay/ts-package-rollup/actions/workflows/ci.yml/badge.svg)](https://github.com/seanghay/ts-package-rollup/actions/workflows/ci.yml)
+
 ## Features
 
 - [x] TypeScript
