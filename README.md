@@ -47,3 +47,7 @@ pnpm release
 
 This repo is using `pnpm` as a package manager, however if you need to use `npm` you can remove `pnpm-lock.yaml` and run `npm install`
 
+
+---
+
+This package is published to https://www.npmjs.com/package/ts-package-rollup
