@@ -8,17 +8,17 @@ A template for building ESM & CommonJS library.
 
 ## Features
 
-- [x] [Rollup](https://rollupjs.org/)
-- [x] TypeScript
-- [x] Type declaration `.d.ts`
-- [x] [esbuild](https://esbuild.github.io/) 
-- [x] [Vitest](https://vitest.dev/)
-- [x] Use GitHub Actions for publishing to npm
-- [x] Output files are minified with source maps
-- [x] Support for CommonJS & ESM
-- [x] JSON Module
-- [x] Unit tests with GitHub Actions 
-- [x] Conventional Releases 
+- ✅ [Rollup](https://rollupjs.org/)
+- ✅ TypeScript
+- ✅ Type declaration `.d.ts`
+- ✅ [esbuild](https://esbuild.github.io/) 
+- ✅ [Vitest](https://vitest.dev/)
+- ✅ Use GitHub Actions for publishing to npm
+- ✅ Output files are minified with source maps
+- ✅ Support for CommonJS & ESM
+- ✅ JSON Module
+- ✅ Unit tests with GitHub Actions 
+- ✅ Conventional Releases 
 
 ## Test
 
